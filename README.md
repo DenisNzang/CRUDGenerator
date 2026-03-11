@@ -3,7 +3,7 @@
 ## Descripción
 Herramienta web para generar aplicaciones CRUD (Crear, Leer, Actualizar, Eliminar) completas a partir de estructuras de base de datos existentes.
 
-## Nueva Estructura de Directorios
+## Estructura de Directorios
 ```
 generator/
 ├── src/                          # Código fuente principal
