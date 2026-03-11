@@ -1,0 +1,169 @@
+[2026-01-18 07:37:10] [INFO] Inicio de generación de aplicación: QWEN Generator
+[2026-01-18 07:37:10] [INFO] Directorio de salida creado: /var/www/html/projects/generator/src/core/config/../../../generated-app/QWEN_Generator_1768721830
+[2026-01-18 07:37:10] [INFO] Base de datos SQLite copiada: sqlite_696c8d5c64e9c.db
+[2026-01-18 07:37:10] [INFO] Actualizado marcador en: artist.html
+[2026-01-18 07:37:10] [INFO] Actualizado marcador en: media_type.html
+[2026-01-18 07:37:10] [INFO] Actualizado marcador en: genre.html
+[2026-01-18 07:37:10] [INFO] Actualizado marcador en: user.html
+[2026-01-18 07:37:10] [INFO] Actualizado marcador en: track.html
+[2026-01-18 07:37:10] [INFO] Actualizado marcador en: album.html
+[2026-01-18 07:37:11] [INFO] Archivo ZIP generado: /var/www/html/projects/generator/src/core/config/../../../generated-app/QWEN_Generator_1768721830/application.zip
+[2026-01-18 07:37:11] [INFO] Generación completada exitosamente
+[2026-01-18 10:02:20] [INFO] Inicio de generación de aplicación: GQ Data
+[2026-01-18 10:02:20] [INFO] Directorio de salida creado: /var/www/html/projects/generator/src/core/config/../../../generated-app/GQ_Data_1768730540
+[2026-01-18 10:02:20] [INFO] Base de datos SQLite copiada: sqlite_696caa1be9ac4.db
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: asociacion_deportiva.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: ministerio.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: cie10.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: centro_educativo.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: causa_abandono.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: parentesco.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: medicamento.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: biblioteca.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: area_protegida.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: religion.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: cnae_class.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: ohada_account.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: federacion_deportiva.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: nivel_educativo.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: empresa.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: facultad.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: embajada.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: asignatura.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: etnia.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: banco.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: equipo_deporte.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: discapacidad.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: titulacion.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: municipio.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: prestacion_social.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: ocupacion.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: clase_viv.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: provincia.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: distrito.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: ciuo_subgroup.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: estado_familiar.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: rama_bachillerato.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: lengua.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: centro_salud.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: estadio_futbol.html
+[2026-01-18 10:02:20] [INFO] Actualizado marcador en: car_model.html
+[2026-01-18 10:03:01] [INFO] Archivo ZIP generado: /var/www/html/projects/generator/src/core/config/../../../generated-app/GQ_Data_1768730540/application.zip
+[2026-01-18 10:03:01] [INFO] Generación completada exitosamente
+[2026-01-18 16:55:14] [INFO] Inicio de generación de aplicación: Equatorial Guinea DataCenter
+[2026-01-18 16:55:14] [INFO] Directorio de salida creado: /var/www/html/projects/generator/src/core/config/../../../generated-app/Equatorial_Guinea_DataCenter_1768755314
+[2026-01-18 16:55:14] [INFO] Base de datos SQLite copiada: sqlite_696d0eb16ab16.db
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: asociacion_deportiva.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: ministerio.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: cie10.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: centro_educativo.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: causa_abandono.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: parentesco.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: medicamento.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: biblioteca.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: area_protegida.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: religion.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: cnae_class.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: ohada_account.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: federacion_deportiva.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: nivel_educativo.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: empresa.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: facultad.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: embajada.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: asignatura.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: etnia.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: banco.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: equipo_deporte.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: discapacidad.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: titulacion.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: municipio.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: prestacion_social.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: ocupacion.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: clase_viv.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: provincia.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: distrito.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: ciuo_subgroup.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: estado_familiar.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: rama_bachillerato.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: lengua.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: centro_salud.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: estadio_futbol.html
+[2026-01-18 16:55:14] [INFO] Actualizado marcador en: car_model.html
+[2026-01-18 16:55:55] [INFO] Archivo ZIP generado: /var/www/html/projects/generator/src/core/config/../../../generated-app/Equatorial_Guinea_DataCenter_1768755314/application.zip
+[2026-01-18 16:55:55] [INFO] Generación completada exitosamente
+[2026-02-16 15:26:33] [INFO] Inicio de generación de aplicación: Gestión ACCEGE
+[2026-02-16 15:26:33] [INFO] Directorio de salida creado: /var/www/html/projects/generator/src/core/config/../../../generated-app/Gesti_n_ACCEGE_1771255593
+[2026-02-16 15:26:33] [INFO] Base de datos SQLite copiada: sqlite_69933560547ce.db
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: caja.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: profesor.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: tipo_mov.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: centro.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: nivel_educativo.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: nodocente.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: responsabilidad.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: sexo.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: pago.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: titulacion.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: poblacion.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: responsable.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: user.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: puesto.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: anio_escolar.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: institucion.html
+[2026-02-16 15:26:33] [INFO] Actualizado marcador en: concepto.html
+[2026-02-16 15:26:36] [INFO] Archivo ZIP generado: /var/www/html/projects/generator/src/core/config/../../../generated-app/Gesti_n_ACCEGE_1771255593/application.zip
+[2026-02-16 15:26:36] [INFO] Generación completada exitosamente
+[2026-02-16 15:45:14] [INFO] Inicio de generación de aplicación: Gestión ACCEGE
+[2026-02-16 15:45:14] [INFO] Directorio de salida creado: /var/www/html/projects/generator/src/core/config/../../../generated-app/Gesti_n_ACCEGE_1771256714
+[2026-02-16 15:45:14] [INFO] Base de datos SQLite copiada: sqlite_699339376893c.db
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: caja.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: profesor.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: tipo_mov.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: centro.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: nivel_educativo.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: nivel.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: activity_log.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: nodocente.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: responsabilidad.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: sexo.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: pago.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: titulacion.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: poblacion.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: responsable.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: user.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: puesto.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: provincia.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: region.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: anio_escolar.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: tipo_territorio.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: institucion.html
+[2026-02-16 15:45:14] [INFO] Actualizado marcador en: concepto.html
+[2026-02-16 15:45:17] [INFO] Archivo ZIP generado: /var/www/html/projects/generator/src/core/config/../../../generated-app/Gesti_n_ACCEGE_1771256714/application.zip
+[2026-02-16 15:45:17] [INFO] Generación completada exitosamente
+[2026-02-16 15:59:11] [INFO] Inicio de generación de aplicación: Gestión ACCEGE
+[2026-02-16 15:59:11] [INFO] Directorio de salida creado: /var/www/html/projects/generator/src/core/config/../../../generated-app/Gesti_n_ACCEGE_1771257551
+[2026-02-16 15:59:11] [INFO] Base de datos SQLite copiada: sqlite_69933d62412f6.db
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: caja.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: profesor.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: tipo_mov.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: centro.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: nivel_educativo.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: nivel.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: activity_log.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: nodocente.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: responsabilidad.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: sexo.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: pago.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: titulacion.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: poblacion.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: responsable.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: user.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: puesto.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: provincia.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: region.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: anio_escolar.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: tipo_territorio.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: institucion.html
+[2026-02-16 15:59:11] [INFO] Actualizado marcador en: concepto.html
+[2026-02-16 15:59:13] [INFO] Archivo ZIP generado: /var/www/html/projects/generator/src/core/config/../../../generated-app/Gesti_n_ACCEGE_1771257551/application.zip
+[2026-02-16 15:59:13] [INFO] Generación completada exitosamente

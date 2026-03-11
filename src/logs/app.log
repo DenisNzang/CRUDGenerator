@@ -1,0 +1,7 @@
+[2025-12-21 06:40:34] [INFO] Inicio de generación de aplicación: GQ Data
+[2025-12-21 06:40:34] [INFO] Directorio de salida creado: /var/www/html/projects/generator/src/core/config/../../generated-app/GQ_Data_1766299234
+[2025-12-21 06:40:34] [INFO] Base de datos SQLite copiada: sqlite_69479614f0bd4.db
+[2025-12-21 06:41:18] [INFO] Archivo ZIP generado: /var/www/html/projects/generator/src/core/config/../../generated-app/GQ_Data_1766299234/application.zip
+[2025-12-21 06:41:18] [INFO] Archivo temporal eliminado: sqlite_6947961242617.db
+[2025-12-21 06:41:18] [INFO] Archivo temporal eliminado: sqlite_69479614f0bd4.db
+[2025-12-21 06:41:18] [INFO] Generación completada exitosamente
